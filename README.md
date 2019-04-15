@@ -38,6 +38,15 @@ someFunction() {
 }
 ```
 
+----
+
+## QQ群：
+
+2千人QQ群，Flutter学习开发交流群，QQ群号：**202921297**， 欢迎大家加入。
+
+----
+
+
 ## 其它
 
 For help getting started with Flutter, view our online
